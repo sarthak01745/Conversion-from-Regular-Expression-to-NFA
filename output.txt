@@ -1,0 +1,5 @@
+Regular Expression: a+b
+NFA constructed successfully
+Start State: S
+Final State: F
+Transitions generated using Thompson’s Construction
